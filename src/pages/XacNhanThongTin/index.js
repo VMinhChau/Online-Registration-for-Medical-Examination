@@ -1,4 +1,4 @@
-import { provideLocalizationService } from '@progress/kendo-react-intl';
+// import { provideLocalizationService } from '@progress/kendo-react-intl';
 import classNames from 'classnames/bind';
 import { Navigate, useNavigate } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';

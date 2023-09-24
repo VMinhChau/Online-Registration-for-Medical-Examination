@@ -2,7 +2,7 @@ import classNames from 'classnames/bind';
 import React, { useState, useContext } from 'react';
 import * as ReactDOM from 'react-dom';
 import styles from './ThongKePhieuKham.module.scss';
-import { Filter, Operators, TextFilter, NumericFilter, BooleanFilter } from '@progress/kendo-react-data-tools';
+// import { Filter, Operators, TextFilter, NumericFilter, BooleanFilter } from '@progress/kendo-react-data-tools';
 import { ComposedChart, Line, Area, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import { UserContext } from '../../components/UserContext';
 import DatePicker from 'react-multi-date-picker';

@@ -3,7 +3,7 @@ import doctorImage from '../../assets/images/doctor_image.png';
 import styles from './TrangChu.module.scss';
 import backgroundImage from '../../assets/images/hospital_background.jpg';
 import Button from 'react-bootstrap/Button';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link, useNavigate } from 'react-router-dom';
 import { UserContext } from '../../components/UserContext';
 import { useContext } from 'react';
